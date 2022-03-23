@@ -263,18 +263,21 @@ body {
   }
   .left_side {
     display: flex;
-    flex-direction: column;
   }
   .text_bar {
     display: flex;
     justify-content: space-around;
+    flex-direction: column;
     align-items: center;
     margin: 1rem 0;
   }
   .lateral_text {
+    writing-mode: vertical-rl;
+    text-orientation: sideways-left;
+    transform: rotate(180deg);
     text-transform: uppercase;
     font-family: "Fredoka", sans-serif;
-    font-size: 0.8rem;
+    font-size: 0.6rem;
   }
   .image {
     width: 100%;
