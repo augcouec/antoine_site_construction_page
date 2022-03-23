@@ -35,7 +35,6 @@ export default {
 };
 </script>
 <style>
-@import url("https://fonts.googleapis.com/css2?family=Fredoka&family=Inter:wght@400;600&display=swap");
 body {
   margin: 0;
   font-family: "Inter", sans-serif;
