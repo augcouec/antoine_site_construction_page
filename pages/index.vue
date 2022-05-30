@@ -23,7 +23,7 @@
       <div class="contact">
         <span class="second_text">Site en construction </span>
         <span class="third_text">Contactez-nous à: </span>
-        <span class="fourth_text">lucie@agence-bobard.com</span>
+        <span class="fourth_text">antoine@agence-bobard.com</span>
       </div>
     </div>
   </main>
