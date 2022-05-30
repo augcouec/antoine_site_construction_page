@@ -34,7 +34,6 @@ export default {
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [],
-  devModules: ["@nuxtjs/eslint-module"],
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {},
